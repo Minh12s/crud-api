@@ -1,0 +1,12 @@
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\CRUD-order.exe
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\appsettings.json
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\CRUD-order.dll
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\CRUD-order.deps.json
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\CRUD-order.runtimeconfig.json
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\CRUD-order.pdb
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.dll
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Azure\CRUD-order\obj\Release\net7.0\PubTmp\Out\Microsoft.EntityFrameworkCore.Relational.dll
